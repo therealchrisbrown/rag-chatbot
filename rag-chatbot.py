@@ -1,1 +1,1 @@
-# Buidl the RAG-System
+# Build the RAG-System with Langchain, Hugging Face, SageMaker
