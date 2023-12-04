@@ -1,6 +1,5 @@
 # Build the RAG-System with Langchain, Hugging Face, SageMaker
 
-
 import json
 import sagemaker
 import boto3
